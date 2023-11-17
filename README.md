@@ -1,0 +1,7 @@
+# NCSML-HDTD
+## NCSML-HDTD: Network Centrality and Sequence-Based Machine Learning Methodology for Human Drug Targets Discovery of COVID-19
+
+Identifying druggable human proteins is crucial to combat certain diseases like COVID-19. 
+This actually paves the way for implementing the drug repurposing study for any disease whose drugs are still unknown. 
+Network Centrality obtained from Protein–Protein Interaction Network and various protein sequence-based features is essential in determining how much a particular protein is relevant in the entire protein–protein interaction network. The more the protein becomes relevant, the more the possibility of that protein to become a target for drugs. This research proposes a methodology named NCSML-HDTD (Network Centrality and Sequence-based Machine Learning Methodology for Human Drug Targets Discovery), which implements several machine learning models like Logistic Regression, Decision Tree model, Random Forest model, Support Vector Classification, AdaBoost Classifier, and XGBoost Classifier to identify potential COVID-19 drug targets using several significant protein networks and sequence features. Once all the models' performance is estimated, NCSML-HDTD deploys the best-performing machine learning classifier to search for novel COVID-19 drug targets, 
+which are also further validated by existing COVID-19 in silico and in vitro-based literature studies.
