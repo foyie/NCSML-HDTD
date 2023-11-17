@@ -6,6 +6,11 @@ This actually paves the way for implementing the drug repurposing study for any 
 Network Centrality obtained from Protein–Protein Interaction Network and various protein sequence-based features is essential in determining how much a particular protein is relevant in the entire protein–protein interaction network. The more the protein becomes relevant, the more the possibility of that protein to become a target for drugs. This research proposes a methodology named NCSML-HDTD (Network Centrality and Sequence-based Machine Learning Methodology for Human Drug Targets Discovery), which implements several machine learning models like Logistic Regression, Decision Tree model, Random Forest model, Support Vector Classification, AdaBoost Classifier, and XGBoost Classifier to identify potential COVID-19 drug targets using several significant protein networks and sequence features. Once all the models' performance is estimated, NCSML-HDTD deploys the best-performing machine learning classifier to search for novel COVID-19 drug targets, 
 which are also further validated by existing COVID-19 in silico and in vitro-based literature studies.
 
+### Flowchart of the methodology:
+
+![flowchart2](https://github.com/foyie/Drug-Target-Identification-Using-Biological-Information-and-Node2vec/assets/89987028/9d962b8b-18df-4418-aa65-edf153ddd50a)
+
+
 * This repository consists of the main code file and the data that was used.
 * This paper got approved in 3rd International Conference on Frontiers in Computing and Systems (COMSYS-2022) held at IIT Ropar
 * It was awarded the best paper in the conference
