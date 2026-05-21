@@ -1,6 +1,8 @@
 # NCSML-HDTD: Network Centrality and Sequence-Based Machine Learning for COVID-19 Drug Target Discovery
 
 A machine learning methodology that combines network centrality measures with protein sequence features to identify potential COVID-19 drug targets.
+Paper Link: https://doi.org/10.1007/978-981-99-2680-0_45 
+
 
 ## Overview
 
@@ -456,4 +458,4 @@ Improvements welcome! Consider:
 * The paper is currenty published in Proceedings of International Conference on Frontiers in Computing and Systems(Springer)
 * Cite this paper:
 
-Jha, S., Das, C., Saha, S. (2023). NCSML-HDTD: Network Centrality and Sequence-Based Machine Learning Methodology for Human Drug Targets Discovery of COVID-19. In: Sarkar, R., Pal, S., Basu, S., Plewczynski, D., Bhattacharjee, D. (eds) Proceedings of International Conference on Frontiers in Computing and Systems. COMSYS 2022. Lecture Notes in Networks and Systems, vol 690. Springer, Singapore. https://doi.org/10.1007/978-981-99-2680-0_45 
+PAPER LINK: Jha, S., Das, C., Saha, S. (2023). NCSML-HDTD: Network Centrality and Sequence-Based Machine Learning Methodology for Human Drug Targets Discovery of COVID-19. In: Sarkar, R., Pal, S., Basu, S., Plewczynski, D., Bhattacharjee, D. (eds) Proceedings of International Conference on Frontiers in Computing and Systems. COMSYS 2022. Lecture Notes in Networks and Systems, vol 690. Springer, Singapore. https://doi.org/10.1007/978-981-99-2680-0_45 
